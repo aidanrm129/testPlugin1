@@ -1,3 +1,8 @@
 name: testPlugin
-version: 1.0
+version: 1.0.1
 main: io.github.aidanrm129.testPlugin
+website: https://aidanrm129.github.io/testPlugin1/
+commands:
+  testCommand:
+    description: activates a test command
+    usage: /testCommand
